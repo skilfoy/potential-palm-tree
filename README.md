@@ -27,6 +27,13 @@ Following is a list the tabs I've accumulated over the past many months. Tons of
   - [Can I takeover XYZ?](https://github.com/EdOverflow/can-i-take-over-xyz)
   - [Hostile Subdomain Takeover using Heroku/Github/Desk + more](https://labs.detectify.com/2014/10/21/hostile-subdomain-takeover-using-herokugithubdesk-more/)
 - [Infoga - Email OSINT](https://github.com/m4ll0k/Infoga) - Infoga is a tool to gather email account information (ip, hostname, country, etc.) from different public sources (search engines, pgp key servers, and shodan) and check if emails were leaked using haveibeenpwned.com API. A really simple tool, but very effective for the early stages of a penetration test or just to know the visibility of your company on the Internet.
+- [Anubis](https://github.com/jonluca/Anubis) - Anubis is a subdomain enumeration and information gathering tool. Anubis collates data from a variety of sources, including HackerTarget, DNSDumpster, x509 certs, VirusTotal, Google, Pkey, and NetCraft. Anubis also has a sister project, AnubisDB, which serves as a centralized repository of subdomains.
+  - [Anubis-DB](https://github.com/jonluca/Anubis-DB)
+- [Hak9](https://github.com/xHak9x) - https://www.youtube.com/c/Hak9xx
+  - [Hak9Tools](https://github.com/xHak9x/Hak9Tools) - Install on Kali, Cyborg, Parrot,... Linux.
+    - [fbi](https://github.com/xHak9x/fbi) - FBI is an accurate facebook account information gathering, all sensitive information can be easily gathered even though the target converts all of its privacy to (only me), Sensitive information about residence, date of birth, occupation, phone number and email address.
+- 
+
 
 # Lists
 
