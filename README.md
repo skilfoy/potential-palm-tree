@@ -38,5 +38,6 @@ Following is a list the tabs I've accumulated over the past many months. Tons of
 # Lists
 
 - [Awesome Hacking Tools](https://github.com/m4ll0k/Awesome-Hacking-Tools)
+- [Awesome Deception](https://github.com/tolgadevsec/Awesome-Deception)
 
 
