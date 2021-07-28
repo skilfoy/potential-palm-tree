@@ -33,6 +33,29 @@ Following is a list the tabs I've accumulated over the past many months. Tons of
   - [Hak9Tools](https://github.com/xHak9x/Hak9Tools) - Install on Kali, Cyborg, Parrot,... Linux.
     - [fbi](https://github.com/xHak9x/fbi) - FBI is an accurate facebook account information gathering, all sensitive information can be easily gathered even though the target converts all of its privacy to (only me), Sensitive information about residence, date of birth, occupation, phone number and email address.
 - [Running Kali in a Docker Container](https://airman604.medium.com/kali-linux-in-a-docker-container-5a06311624eb)
+- [SANS DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI) - DeepBlueCLI - a PowerShell Module for Threat Hunting via Windows Event Logs
+- [Sigma](https://github.com/SigmaHQ/sigma) - Generic Signature Format for SIEM Systems
+- [Security Onion 2](https://github.com/Security-Onion-Solutions/securityonion/blob/master/VERIFY_ISO.md) - Security Onion 2 - Linux distro for threat hunting, enterprise security monitoring, and log management
+- [RITA (Real Intelligence Threat Analytics)](https://www.activecountermeasures.com/free-tools/rita/) - RITA is an open source framework for network traffic analysis.
+- [AC-Hunter](https://www.activecountermeasures.com/ac-hunter-features/) - AC-Hunter™ is a solution that Threat Hunts your network to identify which of your systems have been compromised.
+- [WWHF Training Schedule](https://wildwesthackinfest.com/training-schedule/) - Check out the PWYC Courses!
+- [OSSEC (HIDS)](https://github.com/ossec/ossec-hids) - OSSEC is a full platform to monitor and control your systems. It mixes together all the aspects of HIDS (host-based intrusion detection), log monitoring and SIM/SIEM together in a simple, powerful and open source solution.
+- [Wazuh](https://github.com/wazuh/wazuh) - Wazuh is a free and open source platform used for threat prevention, detection, and response. Intrusion detection, Log data analysis, File integrity monitoring, Vulnerability detection, Configuration assessment, Incident response, Regulatory compliance, Cloud security, Containers security. Wazuh solution consists of an endpoint security agent, deployed to the monitored systems, and a management server, which collects and analyzes data gathered by the agents. Besides, Wazuh has been fully integrated with the Elastic Stack, providing a search engine and data visualization tool that allows users to navigate through their security alerts.
+- [Velociraptor](https://github.com/velocidex/velociraptor/releases) - Velociraptor is a unique, advanced open-source endpoint monitoring, digital forensic and cyber response platform.
+  - [Velociraptor Training Class](https://drive.google.com/drive/folders/1BIMaJ4jzghIsTcFiSmDthBUmE1Ca2HnC?usp=sharing) - Enterprise Hunting and Incident Response
+  - [Original event page](https://www.eventbrite.com.au/e/enterprise-hunting-and-incident-response-public-online-edition-tickets-150894598807)
+- []() - 
+- []() - 
+- []() - 
+- []() - 
+- []() - 
+- []() - 
+- []() - 
+- []() - 
+- []() - 
+- []() - 
+- []() - 
+
 
 
 # Lists
