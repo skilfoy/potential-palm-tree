@@ -82,8 +82,10 @@ Following is a list the tabs I've accumulated over the past many months. Tons of
   - [woodpecker](https://github.com/qeeqbox/woodpecker) - Custom security distro for remote penetration testing
   - [rhino](https://github.com/qeeqbox/rhino) - Agile Sandbox for analyzing malware and execution behaviors. Customizable, Expandable and can be quickly altered during the analysis iteration. Inspired by the Rhinoceros and Agile methodology.
 
-- []() - 
-- []() - 
+- [Kerberoast Toolkit](https://github.com/nidem/kerberoast) - Kerberoast is a series of tools for attacking MS Kerberos implementations. Below is a brief overview of what each tool does.
+
+- [Public Penetration Testing Reports](https://github.com/juliocesarfort/public-pentesting-reports) - Curated list of public penetration test reports released by several consulting firms and academic security groups.
+
 - []() - 
 - []() - 
 - []() - 
