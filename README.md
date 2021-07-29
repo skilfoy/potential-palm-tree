@@ -84,14 +84,19 @@ Following is a list the tabs I've accumulated over the past many months. Tons of
 
 - [Kerberoast Toolkit](https://github.com/nidem/kerberoast) - Kerberoast is a series of tools for attacking MS Kerberos implementations. Below is a brief overview of what each tool does.
 
-- [Public Penetration Testing Reports](https://github.com/juliocesarfort/public-pentesting-reports) - Curated list of public penetration test reports released by several consulting firms and academic security groups.
+- [juliocesarfort](https://github.com/juliocesarfort/) - Director of Professional Services at @blazeinfosec.
+  - [Public Penetration Testing Reports](https://github.com/juliocesarfort/public-pentesting-reports) - Curated list of public penetration test reports released by several consulting firms and academic security groups.
+  - [natsec-cyberops-papers](https://github.com/juliocesarfort/natsec-cyberops-papers) - List of whitepapers and documents on cyber operations and intelligence/national security matters.
 
-- []() - 
-- []() - 
-- []() - 
-- []() - 
-- []() - 
+- [Wojciech](https://github.com/woj-ciech) - https://www.offensiveosint.io/
+  - [Kamerka-GUI](https://www.offensiveosint.io/hack-the-planet-with-amerka-gui-ultimate-internet-of-things-industrial-control-systems-reconnaissance-tool/) - Hack the planet with ꓘamerka GUI — Ultimate Internet of Things/Industrial Control Systems reconnaissance tool.
+  - [PEPE - Post Exploitation Pastebin Emails](https://github.com/woj-ciech/pepe) - Collect information about leaked email addresses from Pastebin
+  - [OSINT](https://github.com/woj-ciech/OSINT) - Small scripts for OSINT.
+  - [Bad-Ads](https://github.com/woj-ciech/Bad-Ads) - Monitor advertisements on Bedpage. Human Trafficking OSINT tool.
 
+- [Paulino Calderon](https://github.com/cldrn) - Network security specialist | Open Source contributor | @nmap NSE developer | OWASP IoT Goat Project Leader | Chapter leader of @owasp_riviera
+  - [nmap-nse-scripts](https://github.com/cldrn/nmap-nse-scripts) - Repository for NSE (Nmap Scripting Engine) development. You will find my scripts (including non-official ones), libraries, resources and other related material from my workshops.
+  - [external-nse-script-library](https://github.com/cldrn/external-nse-script-library) - External NSE script library (Collection of unofficial scripts) - Feel free to submit your NSE scripts!
 
 
 # Lists
